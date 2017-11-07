@@ -1,7 +1,6 @@
 # SDFoundation
 
 ## Essentials
-dropdown
 navigation bar
 grids
 
